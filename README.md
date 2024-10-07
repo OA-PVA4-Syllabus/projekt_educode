@@ -18,3 +18,4 @@ V průběhu prvního pololetí vytvoříte aplikaci. Zvolené téma si můžete 
 - [ ] Připojení repozitáře na GitHub
 - [ ] Vytvoření základního layoutu aplikace
 - [ ] Zvolené téma: **Název aplikace**
+- [ ] Do složky `.template` nahrajte svůj template aplikace
